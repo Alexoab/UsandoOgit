@@ -8,4 +8,5 @@ segue lá @alexoab'
 veja esta modificaçao
 [Alexoab.com]
 
-vendo a diferença de 
+vendo a diferença de
+ fazendo uma burrada 
