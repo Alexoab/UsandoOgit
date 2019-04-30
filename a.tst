@@ -43,8 +43,10 @@ remote: Resolving deltas: 100% (6/6), done.
 To https://github.com/Alexoab/UsandoOgit.git # Aqui mostra o seu endereço do seu projeto
  * [new branch]      master -> master
 Branch master set up to track remote branch master from origin.
-
-
+ 
+caso queira mudar de repositorio remoto para outro remoto:
+git remote set-url origin URL_NOVO_REMOTO
+git push -u origin master
 
 
 
