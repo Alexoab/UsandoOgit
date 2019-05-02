@@ -1,1 +1,9 @@
  outro rebase 02
+
+O git stash nomeWIPAquivoparamodificar depois 
+#fica em uma area wip
+git stash apply
+
+git stash list
+
+git stash clear
